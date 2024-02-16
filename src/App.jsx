@@ -16,7 +16,7 @@ function App() {
       <div className="card">
       </div>
       <p className="read-the-docs">
-         <a href="https://twitter.com/detroitjs">Follow us on Twitter @detroitjs</a>
+         <a href="https://twitter.com/detroit_js">Follow us on Twitter @detroitjs</a>
       </p>
     </>
   )
