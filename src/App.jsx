@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import detroitJSLogo from './assets/detroit-js-logo.jpeg'
 import './App.css'
 
